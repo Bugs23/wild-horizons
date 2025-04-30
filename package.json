@@ -1,0 +1,24 @@
+{
+  "name": "wild-horizons",
+  "version": "1.0.0",
+  "description": "a dataset of the planet’s most interesting places",
+  "main": "default",
+  "type": "module",
+  "scripts": {
+    "test": "default",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bugs23/wild-horizons.git"
+  },
+  "keywords": [
+    "default"
+  ],
+  "author": "Raymond Urrutia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bugs23/wild-horizons/issues"
+  },
+  "homepage": "https://github.com/Bugs23/wild-horizons#readme"
+}
