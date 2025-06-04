@@ -1,4 +1,4 @@
-export function filterByQueryParams(data, queryParams) {
+export function filterByQueryParams(data, query) {
     
     const {country, continent, is_open_to_public} = query
 
@@ -25,4 +25,6 @@ export function filterByQueryParams(data, queryParams) {
             return destination.is_open_to_public === JSON.parse(is_open_to_public)
         })
     }
+
+    return data
 }

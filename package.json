@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/Bugs23/wild-horizons/issues"
   },
-  "homepage": "https://github.com/Bugs23/wild-horizons#readme"
+  "homepage": "https://github.com/Bugs23/wild-horizons#readme",
+  "dependencies": {
+    "cors": "^2.8.5"
+  }
 }
